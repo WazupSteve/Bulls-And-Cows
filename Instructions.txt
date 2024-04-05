@@ -1,0 +1,20 @@
+Here's a Instruction file to instruct users on changing the path for the "images" folder in the Bulls and Cows game:
+
+Bulls and Cows Game
+Welcome to the Bulls and Cows game! This simple and fun game challenges you to guess a secret number.
+
+Step 1: Make sure all the libraries are preinstalled on the local machine. 
+Example - tkinter , subprocess etc.
+
+
+Step 2 : Update the Path to the "images" Folder
+
+In order for the game to display images correctly, you'll need to update the path to the "images" folder in the Python files. Open each Python file (e.g., game.py, gui1.py, etc.) and locate the line where the path to the "images" folder is specified.
+
+Replace the existing path with the full path to the "images" folder on your local machine. 
+
+Step 3: Run the Game
+
+Once you've updated the paths, you're ready to play! Run the login.py file.
+Have fun playing Bulls and Cows!
+
